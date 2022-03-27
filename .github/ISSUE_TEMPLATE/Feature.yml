@@ -4,19 +4,19 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before creating new task, please review  the behaviour in the existing system. 
+        Before opening a bug report, please search for the behaviour in the existing issues. 
         
         ---
         
-        now we will set the Defination of ready points for the new task.
+        Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
   - type: input
     id: os
     attributes:
-      label: Bisuness File 
-      description: "The name of the bsuiness file in the application layer"
-      placeholder: "Get .... _CMPLX"
+      label: Operating system
+      description: "Which operating system do you use? Please provide the version as well."
+      placeholder: "macOS Big Sur 11.5.2"
     validations:
-      required: true 
+      required: true  
   - type: dropdown
     id: requesttype
     attributes:
