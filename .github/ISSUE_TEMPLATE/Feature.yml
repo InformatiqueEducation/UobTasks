@@ -17,3 +17,13 @@ body:
       placeholder: "Get .... _CMPLX"
     validations:
       required: true 
+  - type: dropdown
+    id: requesttype
+    attributes:
+      label: Request Type
+      description: the type of the request?
+      options:
+        - Command
+        - Query
+    validations:
+      required: true 
