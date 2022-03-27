@@ -41,3 +41,10 @@ body:
       description: What are the Preconditions?
     validations:
       required: false 
+  - type: textarea
+    id: functionsteps
+    attributes:
+      label: Function Steps
+      description: What are the Function Steps?
+    validations:
+      required: false 
