@@ -1,8 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 🎥 Visual Effects Video Playlist 
-    url: https://www.youtube.com/playlist?list...
-    about: View the Visual Effects examples playlist on YouTube
-  - name: 👩‍💻 World of Zero
-    url: https://worldofzero.com
-    about: The World of Zero website
+  - name: 👩‍💻 Technical channel
+    url: https://www.youtube.com/channel/UCcJtr6XOo9YcO1WzcEoDK3g/videos
+    about: all technical tutorials
