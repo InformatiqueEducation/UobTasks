@@ -35,7 +35,7 @@ body:
     validations:
       required: false 
   - type: textarea
-    id: Purposeofthetask1
+    id: preconditions
     attributes:
       label: Purpose of this function
       description: What is the purpose?
