@@ -1,5 +1,7 @@
 name: New Feature
 description: New Feature to the system
+title: '[Feature-Task]'
+labels: 'enhancement'
 body:
   - type: markdown
     attributes:
