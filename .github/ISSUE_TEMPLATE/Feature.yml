@@ -37,7 +37,7 @@ body:
   - type: textarea
     id: preconditions
     attributes:
-      label: Purpose of this function
-      description: What is the purpose?
+      label: Function Preconditions
+      description: What are the Preconditions?
     validations:
       required: false 
