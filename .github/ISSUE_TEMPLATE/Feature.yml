@@ -55,3 +55,10 @@ body:
       description: What is Acceptance Criteria?
     validations:
       required: false 
+  - type: textarea
+    id: functionoutput
+    attributes:
+      label: Function Output
+      description: What is Function Output?
+    validations:
+      required: false 
