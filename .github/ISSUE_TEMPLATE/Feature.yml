@@ -69,3 +69,10 @@ body:
       description: Request inputs if exists?
     validations:
       required: false 
+  - type: textarea
+    id: erd
+    attributes:
+      label: Database Diagram
+      description: What is the database diagram?
+    validations:
+      required: false 
