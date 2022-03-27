@@ -4,11 +4,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before opening a bug report, please search for the behaviour in the existing issues. 
+        Before creating new task, please review  the behaviour in the existing system.
         
         ---
         
-        Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
+        now we will set the Defination of ready points for the new task.
   - type: input
     id: os
     attributes:
