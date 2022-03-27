@@ -63,9 +63,9 @@ body:
     validations:
       required: false 
   - type: textarea
-    id: functionoutput
+    id: requestinputs
     attributes:
-      label: Function Output
-      description: What is Function Output?
+      label: Request inputs
+      description: Request inputs if exists?
     validations:
       required: false 
