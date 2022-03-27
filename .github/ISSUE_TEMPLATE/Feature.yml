@@ -74,8 +74,8 @@ body:
   - type: textarea
     id: erd
     attributes:
-      label: Database Diagram
-      description: What is the database diagram?
+      label: Database Details
+      description: What is the database details?
     validations:
       required: false 
   - type: textarea
