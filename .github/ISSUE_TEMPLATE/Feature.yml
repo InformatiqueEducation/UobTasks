@@ -62,3 +62,31 @@ body:
       description: What is Function Output?
     validations:
       required: false 
+  - type: textarea
+    id: functionoutput
+    attributes:
+      label: Function Output
+      description: What is Function Output?
+    validations:
+      required: false 
+   - type: textarea
+    id: requestinputs 
+    attributes:
+      label: Request inputs
+      description: Request inputs if exists?
+    validations:
+      required: false 	  
+   - type: textarea
+    id: erd 
+    attributes:
+      label: Database Diagram
+      description: What is the database diagram?
+    validations:
+      required: false
+   - type: textarea
+    id: notes 
+    attributes:
+      label: Function Notes
+      description: What are Function Notes?
+    validations:
+      required: false
