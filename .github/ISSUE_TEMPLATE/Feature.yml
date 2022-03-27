@@ -76,3 +76,10 @@ body:
       description: What is the database diagram?
     validations:
       required: false 
+  - type: textarea
+    id: notes
+    attributes:
+      label: Function Notes
+      description: What are Function Notes?
+    validations:
+      required: false 
