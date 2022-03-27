@@ -48,3 +48,10 @@ body:
       description: What are the Function Steps?
     validations:
       required: false 
+  - type: textarea
+    id: acceptancecriteria
+    attributes:
+      label: Acceptance Criteria
+      description: What is Acceptance Criteria?
+    validations:
+      required: false 
